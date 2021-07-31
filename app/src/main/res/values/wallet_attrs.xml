@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="wallet_attributes">
+        <attr name="wallet_component_title" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="record_attributes">
+        <attr name="record_component_title" format="reference" />
+    </declare-styleable>
+</resources>

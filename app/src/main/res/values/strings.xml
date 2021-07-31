@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppOne</string>
+    <string name="available_wallets_title">Your available wallets</string>
+    <string name="create_wallet_title">Please, fill the fields for the new wallet</string>
+    <string name="create_record_title">Please, fill the fields for the new record</string>
+    <string name="create_new_record_btn">Create new record</string>
+    <string name="wallet_title_hint">Title</string>
+    <string name="wallet_description_hint">Description</string>
+    <string name="wallet_total_text">Total sum:</string>
+    <string name="record_sum_text">Sum:</string>
+</resources>
